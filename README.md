@@ -42,7 +42,7 @@ Signin expects
 
 ## Getting started
 
-Clone it by starting your terminal, then change the directory to where you would like to save it and run
+Clone it by starting your terminal
 
 ```sh
 git clone git@github.com:anasasif/nodejs-jwt-token-auth-mysql.git
@@ -59,12 +59,6 @@ Install the required dependencies with
 
 ```sh
 npm install
-```
-
-Initialize the database with
-
-```sh
-npm run db:init
 ```
 
 Start the app with
