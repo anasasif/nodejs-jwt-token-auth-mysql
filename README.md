@@ -45,7 +45,7 @@ Signin expects
 Clone it by starting your terminal, then change the directory to where you would like to save it and run
 
 ```sh
-git clone https://github.com/anasasif/node-mysql-jwt-auth.git
+git clone git@github.com:anasasif/nodejs-jwt-token-auth-mysql.git
 ```
 Change to the downloaded directory with
 
