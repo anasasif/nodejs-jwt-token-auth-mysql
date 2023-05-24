@@ -50,7 +50,7 @@ git clone git@github.com:anasasif/nodejs-jwt-token-auth-mysql.git
 Change to the downloaded directory with
 
 ```sh
-cd node-mysql-jwt-auth.git
+cd nodejs-jwt-token-auth-mysql
 ```
 
 Rename the file named `.env.example` to `.env` and update the variable values with valid ones
